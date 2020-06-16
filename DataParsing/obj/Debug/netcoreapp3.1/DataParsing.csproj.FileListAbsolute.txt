@@ -1,0 +1,13 @@
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\bin\Debug\netcoreapp3.1\DataParsing.exe
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\bin\Debug\netcoreapp3.1\DataParsing.deps.json
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\bin\Debug\netcoreapp3.1\DataParsing.runtimeconfig.json
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\bin\Debug\netcoreapp3.1\DataParsing.runtimeconfig.dev.json
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\bin\Debug\netcoreapp3.1\DataParsing.dll
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\bin\Debug\netcoreapp3.1\DataParsing.pdb
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.csprojAssemblyReference.cache
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.AssemblyInfoInputs.cache
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.AssemblyInfo.cs
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.dll
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.pdb
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.genruntimeconfig.cache
+C:\Users\avinash.bobba\source\repos\DataParsing\DataParsing\obj\Debug\netcoreapp3.1\DataParsing.csproj.CoreCompileInputs.cache
